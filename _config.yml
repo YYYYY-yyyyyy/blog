@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+title: Y's blog
+
+theme: minima
+theme: minimashow_excerpts: true
